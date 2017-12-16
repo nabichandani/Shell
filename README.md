@@ -1,6 +1,6 @@
 # Shell
 
-This is my Shell that I created with C.  It supports builtin commands, executables, unlimited piping and redirection, and job control. 
+This is my Bash-like Shell that I created in C.  It supports builtin commands, executables, unlimited piping and redirection, and job control. 
 
 ## Compilation
 
