@@ -1,6 +1,6 @@
 # Shell
 
-November 5th 2017
+This is my Shell that I created with C.  It supports builtin commands, executables, unlimited piping and redirection, and job control. 
 
 ## Compilation
 
